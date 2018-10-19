@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
-<question type=artifact>
+
+
+<question type=choixmultiple>
+
 	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
