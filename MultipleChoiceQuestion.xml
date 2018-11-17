@@ -2,17 +2,17 @@
 
 <question type="multichoice">
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text>Demo question à choix  multiples</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
-	<answer fraction="100">
+	<answer fraction="1000">
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
-			<text>Bravo !</text>
+			<text>Bravo........... !</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
